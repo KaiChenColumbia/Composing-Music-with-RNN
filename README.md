@@ -1,1 +1,1 @@
-# Composing-Music-with-RNN-implemented-in-tensorflow-
+# Composing-Music-with-RNN
